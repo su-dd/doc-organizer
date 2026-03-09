@@ -1,0 +1,47 @@
+[
+  {
+    "category": "报告",
+    "tags": [
+      "报告"
+    ],
+    "summary": "AI 解析失败，基于文件名分类",
+    "confidence": 0.3,
+    "file_path": "test_docs/annual_report.txt"
+  },
+  {
+    "category": "合同",
+    "tags": [
+      "合同"
+    ],
+    "summary": "AI 解析失败，基于文件名分类",
+    "confidence": 0.3,
+    "file_path": "test_docs/contract.txt"
+  },
+  {
+    "category": "发票",
+    "tags": [
+      "发票"
+    ],
+    "summary": "AI 解析失败，基于文件名分类",
+    "confidence": 0.3,
+    "file_path": "test_docs/invoice.txt"
+  },
+  {
+    "category": "笔记",
+    "tags": [
+      "笔记"
+    ],
+    "summary": "AI 解析失败，基于文件名分类",
+    "confidence": 0.3,
+    "file_path": "test_docs/meeting_notes.txt"
+  },
+  {
+    "category": "简历",
+    "tags": [
+      "简历"
+    ],
+    "summary": "AI 解析失败，基于文件名分类",
+    "confidence": 0.3,
+    "file_path": "test_docs/resume.txt"
+  }
+]
