@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 测试文件
+test_documents/
+test_organized/
+*.txt
+
+# 配置文件（可选）
+config.yaml
+
+# 模型文件
+*.bin
+*.gguf
+
+# 日志
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
